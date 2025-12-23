@@ -1,0 +1,5 @@
+{
+  "name": "언제쉼? - 스마트 팀 근무 캘린더",
+  "description": "Supabase를 이용한 실시간 공유 팀 협업 근무 일정 관리 도구",
+  "requestFramePermissions": []
+}
